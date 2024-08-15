@@ -1,0 +1,6 @@
+name: BucketFix
+version: '1.0'
+main: acid.jacker.bucketFix.BucketFix
+api-version: '1.20'
+authors: [ JackerAcid ]
+description: Forces inventory update for situations where client and server bucket reach do not match.
